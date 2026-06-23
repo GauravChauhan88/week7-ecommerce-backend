@@ -1,0 +1,24 @@
+# Target build directory (Maven output)
+target/
+*.jar
+*.war
+*.ear
+
+# IDE Specific Files (VS Code, IntelliJ, Eclipse)
+.settings/
+.project
+.classpath
+.factorypath
+.idea/
+*.iml
+*.iws
+.vscode/
+
+# Operating System Temporary Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Log files
+*.log
